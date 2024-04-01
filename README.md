@@ -7,4 +7,5 @@
 ### Приклад  
 + [з поліморфізмом](https://github.com/Artem-Pylhun/04-polymorphism-Artem-Pylhun/blob/main/Override.png)
 + [без нього](https://github.com/Artem-Pylhun/04-polymorphism-Artem-Pylhun/blob/main/No%20override.png)
+### Пояснення
 Коротко кажучи без реалізації поліморфізма, якщо створити сутність нащадка в змінну для батьківської, то для неї будуть виконуватись методи так, як прописано в батьківській сутності.
