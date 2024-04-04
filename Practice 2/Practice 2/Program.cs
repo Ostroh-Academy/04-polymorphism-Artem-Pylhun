@@ -1,6 +1,6 @@
-﻿using static Practice_2.Program;
+﻿using static Practice4_Task1.Program;
 
-namespace Practice_2
+namespace Practice4_Task1
 {
     internal class Program
     {

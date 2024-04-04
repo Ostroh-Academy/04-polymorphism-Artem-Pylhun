@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pilgu\\source\\repos\\Practice 2\\Practice 2\\Practice 2.csproj",
-      "projectName": "Practice 2",
-      "projectPath": "C:\\Users\\pilgu\\source\\repos\\Practice 2\\Practice 2\\Practice 2.csproj",
+      "projectUniqueName": "C:\\Users\\pilgu\\source\\repos\\Practice4\\Practice 2\\Practice 2\\Practice4_Task1.csproj",
+      "projectName": "Practice4_Task1",
+      "projectPath": "C:\\Users\\pilgu\\source\\repos\\Practice4\\Practice 2\\Practice 2\\Practice4_Task1.csproj",
       "packagesPath": "C:\\Users\\pilgu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pilgu\\source\\repos\\Practice 2\\Practice 2\\obj\\",
+      "outputPath": "C:\\Users\\pilgu\\source\\repos\\Practice4\\Practice 2\\Practice 2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pilgu\\AppData\\Roaming\\NuGet\\NuGet.Config",
