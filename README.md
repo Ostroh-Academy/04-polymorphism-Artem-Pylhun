@@ -5,7 +5,8 @@
 ## Хід виконання
 Під час виконання завдання було с створено код з демонстрацією роботи з поліморфізмом.
 При запуску програми з наявністю поліморфізму, виконалися перезаписані методи, а коли поліморфізм було забрано з класу-нащадку, то при виконанні програми виконалися методи батьківського класу.
-### Приклад  
+### Приклад
++ [посилання на код](https://github.com/Artem-Pylhun/04-polymorphism-Artem-Pylhun/blob/main/Practice%202/Practice%202/Program.cs)
 + [з поліморфізмом](https://github.com/Artem-Pylhun/04-polymorphism-Artem-Pylhun/blob/main/Override.png)
 + [без нього](https://github.com/Artem-Pylhun/04-polymorphism-Artem-Pylhun/blob/main/No%20override.png)
 ### Пояснення
